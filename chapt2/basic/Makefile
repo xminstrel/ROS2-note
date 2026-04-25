@@ -1,0 +1,2 @@
+build:
+    g++ --version
